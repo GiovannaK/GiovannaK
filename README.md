@@ -39,7 +39,7 @@
 
 - [Taskway -> Collaborate and manage tasks in real time](https://taskway.tk/)
 
-- [GetYourTable -> Request and manage bookings in real time](https://getyourtable.netlify.app/)
+- [GetYourTable -> Request and manage bookings in real time](https://getyourtable.tk/)
 
 - [MYExpenses -> Manage earnings and expenses with different currencies](https://myexpenses-service.herokuapp.com/)
 
