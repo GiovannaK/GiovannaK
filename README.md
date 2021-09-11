@@ -31,7 +31,7 @@
 
 ## Portfolio
 
--[Portfolio -> ](https://giovannakelli.tk/)
+- [Portfolio -> ](https://giovannakelli.tk/)
 
 ---
 
