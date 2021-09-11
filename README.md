@@ -31,7 +31,7 @@
 
 ## Portfolio
 
-[![Portfolio](https://img.shields.io/website?label=https://giovannakelli.tk/&style=for-the-badge&url=https://giovannakelli.tk/)](https://giovannakelli.tk/)
+-[Portfolio -> ](https://giovannakelli.tk/)
 
 ---
 
