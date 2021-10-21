@@ -43,7 +43,7 @@
 
 - [GetYourTable -> Request and manage bookings in real time](https://getyourtable.tk/)
 
-- [GithubList -> Get relevant information about GITHUB users](githublist.netlify.app/)
+- [GithubList -> Get relevant information about GITHUB users](https://githublist.netlify.app/)
 
 - [MYExpenses -> Manage earnings and expenses with different currencies](https://myexpenses-service.herokuapp.com/)
 
