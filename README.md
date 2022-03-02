@@ -1,4 +1,4 @@
-## Full Stack Developer
+## Full Stack Engineer
 --- 
 
 ![GiovannaK's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiovannaK&show_icons=true&theme=radical)
