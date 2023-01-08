@@ -6,7 +6,7 @@
 
 ### Software Engineer with experience in developing web applications from Back-end to Front-end. Specialized in Javascript and Typescript. My goal is to move towards new challenges that impact organizations and people.
 
-### My specialties include constantly learning new skills and improving knowledge in NodeJS, Typescript, Javascript, Express, NestJS, GraphQL, PostgreSQL, Apollo Server, Redis, Apache Kafka, Elasticsearch, Docker, ReactJS, NextJS, Material UI and Apollo Client. In addition to learning architectural best practices such as DDD, CQRS, BDD and testing with Jest.
+### My specialties include constantly learning new skills and improving knowledge in NodeJS, Typescript, Javascript, Express, NestJS, GraphQL, PostgreSQL, Apollo Server, Redis, Apache Kafka, Elasticsearch, Docker, ReactJS, NextJS, Material UI and Apollo Client. In addition to learning architectural best practices such as DDD, CQRS, and testing with Jest.
 
 ---
 
