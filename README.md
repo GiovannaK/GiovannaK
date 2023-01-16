@@ -8,7 +8,7 @@
 
 ### My specialties include constantly learning new skills and improving knowledge in NodeJS, Typescript, Javascript, Express, NestJS, GraphQL, PostgreSQL, Apollo Server, Redis, Apache Kafka, Elasticsearch, Docker, ReactJS, NextJS, Material UI and Apollo Client. In addition to learning architectural best practices such as DDD, CQRS, and testing with Jest.
 
----
+
 
 ![GiovannaK's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiovannaK&show_icons=true&theme=radical)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=GiovannaK&layout=compact&theme=dark)
