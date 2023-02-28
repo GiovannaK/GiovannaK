@@ -56,7 +56,7 @@
 
 - [Taskway -> Collaborate and manage tasks in real time](https://taskway.tk/)
 
-- [Tablee -> Request and manage bookings in real time](https://tableeservice.netlify.app/)
+- [Tablee -> Request and manage bookings in real time](https://tablee.tk/)
 ---
 
 ## Social
