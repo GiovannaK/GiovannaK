@@ -46,19 +46,6 @@
 
 ---
 
-## Portfolio
-
-- [Portfolio -> ](https://giovannakelli.tk/)
-
----
-
-## Last Projects
-
-- [Taskway -> Collaborate and manage tasks in real time](https://taskway.tk/)
-
-- [Tablee -> Request and manage bookings in real time](https://tablee.tk/)
----
-
 ## Social
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanna-kelli/?locale=en_US)
